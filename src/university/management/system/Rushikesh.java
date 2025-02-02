@@ -1,4 +1,4 @@
-package university.management;
+package university.management.system;
 
 public class Rushikesh {
 
